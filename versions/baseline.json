@@ -1,8 +1,16 @@
 {
   "default": {
+    "psb-json-detector": {
+      "baseline": "0.0.1",
+      "port-version": 0
+    },
     "psb-opentelemetry-logs-exporter-stream": {
       "baseline": "0.0.1",
       "port-version": 1
+    },
+    "wwa-coro": {
+      "baseline": "0.0.1",
+      "port-version": 0
     }
   }
 }
