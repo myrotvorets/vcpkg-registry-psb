@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
   "name": "psb-sockutils",
   "version": "0.0.1",
+  "port-version": 1,
   "description": "Utilities for working with sockets",
   "homepage": "https://github.com/myrotvorets/psb-sockutils-cpp",
   "license": "MIT",
