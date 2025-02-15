@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "psb-sockutils",
+  "version": "0.0.1",
+  "description": "Utilities for working with sockets",
+  "homepage": "https://github.com/myrotvorets/psb-sockutils-cpp",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "opentelemetry-cpp",
+      "version>=": "1.18.0"
+    },
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
