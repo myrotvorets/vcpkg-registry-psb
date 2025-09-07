@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO myrotvorets/psb-sockutils-cpp
-    REF 99eb788279a1f5e58d1c31c6dc5db23ab2c8e3e8
-    SHA512 c43ec1d3ef8ae2d8155752d0639949e752be1a9efd9d65944c9421218d2491ed39276432cf064b354dff473c41a95ef84cb6c5cfef9ca9d320f16e9eb689cbc2
+    REF db4709698307e307604dbfdf3bc3527b36f4caa4
+    SHA512 22ff810d93a69d47ff726540230c77ac68bae586e0d4ea3813aeb0ebb22c59600cdcbba93c19d8db5ef0291a9bbbfc7f76fc423be7394f75e5dac48980f62a79
 )
 
 vcpkg_cmake_configure(
